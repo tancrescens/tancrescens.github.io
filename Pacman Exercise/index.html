@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>Pac-man</title>
+  </head>
+  <body>
+    <img
+      id="PacMan"
+      src="images/PacMan1.png"
+      width="200"
+      onclick="Run()"
+      style="position: absolute"
+    />
+
+    <!-- DO NOT CHANGE THIS LINE OF CODE -->
+    <script src="./pacman.js"></script>
+  </body>
+</html>
