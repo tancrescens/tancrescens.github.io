@@ -6,4 +6,4 @@ This space features my personal projects I've done for MITxPRO course: Professio
 ## Projects
 > **[1. Pacman Exercise](https://raw.githack.com/tancrescens/tancrescens.github.io/main/Pacman%20Exercise/index.html)**
 <br>
-> **[2. Pacmen Exercise (Upgraded)](https://raw.githack.com//tancrescens/tancrescens.github.io/blob/main/Pacman%20Exercise/index.html)**
+> **[2. Pacmen Exercise (Upgraded)](https://raw.githack.com/tancrescens/tancrescens.github.io/blob/main/Pacman%20Exercise/index.html)**
