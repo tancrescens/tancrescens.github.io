@@ -9,9 +9,7 @@ This space features my personal projects I've done for MITxPRO course: Professio
 
 **2. Pacmen Exercise (Upgraded from Pacman Exercise)**
 > Manipulated the DOM with 2D arrays, X/Y-Axis of images, and setTimeout();
-<br>
 > Callback functions
-<br>
 > Recursive functions
 
 ## Projects
