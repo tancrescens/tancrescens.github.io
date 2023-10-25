@@ -19,4 +19,4 @@ This space features my personal projects I've done for MITxPRO course: Professio
 ## Projects
 > **[1. Pacman Exercise](https://tancrescens.github.io/Pacman-Exercise/)**<br>
 > **[2. Pacmen Exercise (Upgraded)](https://tancrescens.github.io/Pacmen-Exercise-upgraded/)**<br>
-> **[3. Eye Movement Exercise](https://tancrescens.github.io/eye-movement)**<br>
+> **[3. Eye Movement Exercise](https://tancrescens.github.io/eye-movement/)**<br>
