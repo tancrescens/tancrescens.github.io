@@ -12,6 +12,12 @@ This space features my personal projects I've done for MITxPRO course: Professio
 > Callback functions <br>
 > Recursive functions
 
+**3. Eye Movement Exercise**
+> Manipulated the DOM with 2D arrays, X/Y-Axis of images, and setTimeout(); <br>
+> Callback functions <br>
+> Recursive functions
+
 ## Projects
 > **[1. Pacman Exercise](https://tancrescens.github.io/Pacman-Exercise/)**<br>
-> **[2. Pacmen Exercise (Upgraded)](https://tancrescens.github.io/Pacmen-Exercise-upgraded/)**
+> **[2. Pacmen Exercise (Upgraded)](https://tancrescens.github.io/Pacmen-Exercise-upgraded/)**<br>
+> **[3. Eye Movement Exercise](https://tancrescens.github.io/eye-movement-Exercise/)**<br>
