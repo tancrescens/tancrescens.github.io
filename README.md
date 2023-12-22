@@ -13,16 +13,15 @@ This space features my personal projects I've done for MITxPRO course: Professio
 > Recursive functions
 
 **3. Eye Movement Exercise**
-> 'onmousemove' was used to manipulate the eyeball 
+> 'onmousemove' was used to manipulate the eyeball <br>
 > 'transform: translate' CSS property was used to manipulate the eyeball
 
 **4. Real Time Bus Tracker**
-> API integration from Singapore's Land & Transport Authority (LTA) DataMall.
+> API integration from Singapore's Land & Transport Authority (LTA) DataMall.<br>
 > API integration from Google Maps' Javascript API.
 
 **My First React-Formik Form**
-> Created a React app.
-> dfsd
+> Created a React app.<br>
 > Included Formik's library to manage data/states, validate and submit a Formik form.
 
 
