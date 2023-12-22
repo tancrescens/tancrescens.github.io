@@ -30,4 +30,4 @@ This space features my personal projects I've done for MITxPRO course: Professio
 > **[2. Pacmen Exercise (Upgraded)](https://tancrescens.github.io/Pacmen-Exercise-upgraded/)**<br>
 > **[3. Eye Movement Exercise](https://tancrescens.github.io/eye-movement/)**<br>
 > **[4. Real Time Bus Tracker](https://tancrescens.github.io/bus-tracker)**<br>
-> **[5. My First React-Formik Form](https://tancrescens.github.io/build-a-formik-form_starter)**<br>
+> **[5. My First React-Formik Form](https://tancrescens.github.io/build-a-formik-form_starter/)**<br>
