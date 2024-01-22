@@ -27,6 +27,11 @@ This space features my personal projects I've done for MITxPRO course: Professio
 **ToDo List (CRUD of Lists in React)**
 > Created ToDo List, worked with CRUD and Lists<br>
 
+**Shopping Cart**
+> Created a standalone React app (no tooling)<br>
+> Calling APIs<br>
+> Worked with a backend database (Strapi) to dynamically display shopping items<br>
+
 ## Projects
 > **[1. Pacman Exercise](https://tancrescens.github.io/Pacman-Exercise/)**<br>
 > **[2. Pacmen Exercise (Upgraded)](https://tancrescens.github.io/Pacmen-Exercise-upgraded/)**<br>
@@ -34,3 +39,4 @@ This space features my personal projects I've done for MITxPRO course: Professio
 > **[4. Real Time Bus Tracker](https://tancrescens.github.io/bus-tracker)**<br>
 > **[5. My First React-Formik Form](https://tancrescens.github.io/build-a-formik-form_starter/)**<br>
 > **[6. ToDo-List](https://tancrescens.github.io/ToDo-List/)**<br>
+> **[nil. Shopping Cart](https://tancrescens.github.io/shopping-cart/)**<br>
