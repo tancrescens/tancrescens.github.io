@@ -39,4 +39,4 @@ This space features my personal projects I've done for MITxPRO course: Professio
 > **[4. Real Time Bus Tracker](https://tancrescens.github.io/bus-tracker)**<br>
 > **[5. My First React-Formik Form](https://tancrescens.github.io/build-a-formik-form_starter/)**<br>
 > **[6. ToDo-List](https://tancrescens.github.io/ToDo-List/)**<br>
-> **[nil. Shopping Cart](https://tancrescens.github.io/shopping-cart/)**<br>
+> **[7. Shopping Cart](https://tancrescens.github.io/shopping-cart-react/)**<br>
