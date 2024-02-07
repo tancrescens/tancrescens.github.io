@@ -20,17 +20,22 @@ This space features my personal projects I've done for MITxPRO course: Professio
 > API integration from Singapore's Land & Transport Authority (LTA) DataMall.<br>
 > API integration from Google Maps' Javascript API.
 
-**My First React-Formik Form**
+**5. My First React-Formik Form**
 > Created a React app.<br>
 > Included Formik's library to manage data/states, validate and submit a Formik form.
 
-**ToDo List (CRUD of Lists in React)**
+**6. ToDo List (CRUD of Lists in React)**
 > Created ToDo List, worked with CRUD and Lists<br>
 
-**Shopping Cart**
+**7. Shopping Cart**
 > Created a standalone React app (no tooling)<br>
 > Calling APIs<br>
 > Worked with a backend database (Strapi) to dynamically display shopping items<br>
+
+**8. Display User Profiles (Faker api)**
+> Using [superagent](https://www.npmjs.com/package/superagent) on the frontend to connect with database<br>
+> Used Express framework and lowdb for building the server and data store respectively<br>
+> Utilized [Faker api](https://fakerjs.dev/) to generate users to display<br>
 
 ## Projects
 > **[1. Pacman Exercise](https://tancrescens.github.io/Pacman-Exercise/)**<br>
@@ -40,3 +45,4 @@ This space features my personal projects I've done for MITxPRO course: Professio
 > **[5. My First React-Formik Form](https://tancrescens.github.io/build-a-formik-form_starter/)**<br>
 > **[6. ToDo-List](https://tancrescens.github.io/ToDo-List/)**<br>
 > **[7. Shopping Cart](https://tancrescens.github.io/shopping-cart-react/)**<br>
+> **[8. Display User Profiles (Faker api)](https://tancrescens.github.io/faker-display/)**<br>
