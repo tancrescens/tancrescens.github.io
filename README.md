@@ -34,7 +34,7 @@ This space features my personal projects I've done for MITxPRO course: Professio
 
 **8. Display User Profiles (Faker api)**
 > Using [superagent](https://www.npmjs.com/package/superagent) on the frontend to connect with database<br>
-> Used Express framework and lowdb for building the server and data store respectively<br>
+> Used [Express](https://expressjs.com/) framework and [lowdb](https://github.com/typicode/lowdb) for building the server and data store respectively<br>
 > Utilized [Faker api](https://fakerjs.dev/) to generate users to display<br>
 
 ## Projects
