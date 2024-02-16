@@ -28,48 +28,116 @@
 
   <title>Crescens Portfolio</title>
   <body>
-    <div class="container-fluid banner">
-      <div class="row">
-        <!-- Navbar -->
-        <div class="col-md-12">
-          <nav class="navbar navbar-md">
-            <div class="navbar-brand">Crescens</div>
-            <ul class="nav">
-              <li class="nav-item">
-                <a class="nav-link" href="index.html">HOME</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="portfolio.html">PORTFOLIO</a>
-              </li>
-            </ul>
-          </nav>
-        </div>
-        <!-- Navbar end-->
-
-        <!-- Body -->
-        <div class="col-md-8 offset-md-2 info">
-          <h1 class="text-center">CRESCENS</h1>
-          <p class="text-center">
-            Lorem ipsum dolor sit amet, consectetur adipisicing
-          </p>
-          <a href="#" class="btn btn-md text-center">GET STARTED</a>
-          <!-- Profile Card -->
-          <div class="card" style="width: 18rem">
-            <img src="imgs/formalPotrait.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
+    <container class="container text-center">
+      <!-- Navbar -->
+      <nav class="row">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="#">Crescens</a>
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarNav"
+              aria-controls="navbarNav"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a
+                    class="nav-link active"
+                    aria-current="page"
+                    href="index.html"
+                    >HOME</a
+                  >
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="portfolio.html">PORTFOLIO</a>
+                </li>
+              </ul>
             </div>
           </div>
-          <!-- Profile Card end-->
-        </div>
+        </nav>
+      </nav>
 
-        <!-- Body end-->
-      </div>
-    </div>
+      <!-- 1st content -->
+      <container class="container text-center">
+        <content class="row">
+          <div class="col">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/sbdFwFDTDqU?si=k_GWIP99P9_NbakJ"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </content>
+      </container>
+
+      <!-- 2nd content -->
+      <content class="row">
+        <div class="col">
+          <!-- profile card -->
+          <div class="card" style="width: 18rem">
+            <img
+              src="/imgs/formalPotrait.jpg"
+              class="card-img-top"
+              alt="Formal Potrait"
+            />
+            <div class="card-body">
+              <h5 class="card-title">Crescens Tan</h5>
+              <p class="card-text">
+                Checkout my pages:<br />
+                Github:
+                <a href="https://github.com/tancrescens">tancrescens</a> <br />
+                Portfolio Page:
+                <a href="https://tancrescens.github.io/">tancrescens</a> <br />
+                LinkedIn:
+                <a href="https://www.linkedin.com/in/crescens/">crescens</a>
+                <br />
+                Contact me via email <br />
+              </p>
+              <a href="mailto:tancrescens@gmail.com" class="btn btn-primary"
+                >Email me</a
+              >
+            </div>
+          </div>
+        </div>
+        <!-- Bio -->
+        <div class="col">
+          <h1>About me</h1>
+          <br />
+          <p style="text-align: left">
+            I am Crescens, holding a professional certificate in MERN full-stack
+            and a bachelors in Cyber Security.<br />
+            IT has always been my interest as logic and understanding how things
+            works excites me. Ever wondered how trains could turn without
+            derailing? Or why can't human fly? I've thought of those and it had
+            led me down the path in IT. <br />
+            <br />
+            With my passion in IT and helping others, I want to create a
+            seamless and enriching world for others. Though I'm not the next
+            Steve Jobs but in the little ways, I want to empower others through
+            making impactful applications. <br />
+            <br />
+            While taking my Diploma in Information Technology, I was
+            volunteering for an events company and was manning a signup booth.
+            The process of signing up was tedious and manual, naturally being an
+            IT student, I thought of the ways technology could have lightened
+            this burden. <br />
+            This sparked my fire for automation. I have yet to try out
+            automation but in the near future, I want to veer into the world of
+            automation and enrich people's day to day life.
+          </p>
+        </div>
+      </content>
+    </container>
   </body>
 </html>
