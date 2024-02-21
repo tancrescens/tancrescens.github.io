@@ -39,7 +39,7 @@ This space features my personal projects I've done for MITxPRO course: Professio
 
 **9. Front-End Banking App**
 > Standalone React application with Bootstrap deployed on Render (HTML,CSS,JS, Bootstrap, React Library) <br>
-> Used state&context manipulation, form validation, async-await, dynamic data-table display etc. <br>
+> Used state & context manipulation, form validation, async-await, dynamic data-table display etc. <br>
 > Deployed the aplication onto GitHub and Render
 
 ## Projects
