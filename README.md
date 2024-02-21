@@ -51,4 +51,4 @@ This space features my personal projects I've done for MITxPRO course: Professio
 > **[6. ToDo-List](https://tancrescens.github.io/ToDo-List/)**<br>
 > **[7. Shopping Cart](https://tancrescens.github.io/shopping-cart-react/)**<br>
 > **[8. Display User Profiles (Faker api)](https://tancrescens.github.io/faker-display/)**<br>
-> **[9. Front-End Banking App](https://tancrescens.github.io/github-portfolio-project-front-end-banking-app/)** | **[On Render](https://crescens-tanbankingapplication.onrender.com) <br>
+> **[9. Front-End Banking App](https://tancrescens.github.io/github-portfolio-project-front-end-banking-app/)** | **[On Render](https://crescens-tanbankingapplication.onrender.com)** <br>
