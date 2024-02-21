@@ -37,6 +37,11 @@ This space features my personal projects I've done for MITxPRO course: Professio
 > Used [Express](https://expressjs.com/) framework and [lowdb](https://github.com/typicode/lowdb) for building the server and data store respectively<br>
 > Utilized [Faker api](https://fakerjs.dev/) to generate users to display<br>
 
+**9. Front-End Banking App**
+> Standalone React application with Bootstrap deployed on Render (HTML,CSS,JS, Bootstrap, React Library) <br>
+> Used state&context manipulation, form validation, async-await, dynamic data-table display etc. <br>
+> Deployed the aplication onto GitHub and Render
+
 ## Projects
 > **[1. Pacman Exercise](https://tancrescens.github.io/Pacman-Exercise/)**<br>
 > **[2. Pacmen Exercise (Upgraded)](https://tancrescens.github.io/Pacmen-Exercise-upgraded/)**<br>
@@ -46,3 +51,4 @@ This space features my personal projects I've done for MITxPRO course: Professio
 > **[6. ToDo-List](https://tancrescens.github.io/ToDo-List/)**<br>
 > **[7. Shopping Cart](https://tancrescens.github.io/shopping-cart-react/)**<br>
 > **[8. Display User Profiles (Faker api)](https://tancrescens.github.io/faker-display/)**<br>
+> **[9. Front-End Banking App](https://tancrescens.github.io/github-portfolio-project-front-end-banking-app/)**<br>
