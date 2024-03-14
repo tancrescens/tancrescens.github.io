@@ -1,7 +1,7 @@
 # README: <br> Portfolio Display from MITxPRO course: <br> Professional Certificate in Coding: <br> Full Stack Development with MERN
 
 ## Description
-This space features my personal projects I've done for MITxPRO course: Professional Certificate in Coding: Full Stack Development with MERN.
+This space features my personal projects I've done. They consists of mainly the MERN stack, HTML, CSS and JS
 
 **10. MERN Stack BadBank App**
 > Standalone React with Bootstrap deployed on Render with Docker and used GitHub for version control(HTML,CSS,JS, Bootstrap, React Library) <br>
