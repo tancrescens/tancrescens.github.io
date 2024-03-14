@@ -37,18 +37,32 @@ This space features my personal projects I've done for MITxPRO course: Professio
 > Used [Express](https://expressjs.com/) framework and [lowdb](https://github.com/typicode/lowdb) for building the server and data store respectively<br>
 > Utilized [Faker api](https://fakerjs.dev/) to generate users to display<br>
 
-**9. Front-End Banking App**
+**9. Front-End BadBank App**
 > Standalone React application with Bootstrap deployed on Render (HTML,CSS,JS, Bootstrap, React Library) <br>
-> Used state & context manipulation, form validation, async-await, dynamic data-table display etc. <br>
+> Used state & context manipulation, form validation, async-await, dynamic data-table display, HashRouter etc. <br>
 > Deployed the aplication onto GitHub and Render
 
+**10. MERN Stack BadBank App**
+> Standalone React with Bootstrap deployed on Render with Docker and used GitHub for version control(HTML,CSS,JS, Bootstrap, React Library) <br>
+> Used state & context manipulation, custom form validation, async-await, promises, DAL, HashRouter<br>
+> Deployed the aplication onto GitHub and a Docker Container which was used to run on Render (a Hosting Application)
+> Used MongoDB Atlas for data storage
+> Website can be found here (give it 1 min to start up; its a free server :) ) - [MERN Stack BadBank App(Render)](https://crescens-tan-fullstack-banking.onrender.com)
+
 ## Projects
-> **[1. Pacman Exercise](https://tancrescens.github.io/Pacman-Exercise/)**<br>
-> **[2. Pacmen Exercise (Upgraded)](https://tancrescens.github.io/Pacmen-Exercise-upgraded/)**<br>
-> **[3. Eye Movement Exercise](https://tancrescens.github.io/eye-movement/)**<br>
-> **[4. Real Time Bus Tracker](https://tancrescens.github.io/bus-tracker)**<br>
-> **[5. My First React-Formik Form](https://tancrescens.github.io/build-a-formik-form_starter/)**<br>
-> **[6. ToDo-List](https://tancrescens.github.io/ToDo-List/)**<br>
-> **[7. Shopping Cart](https://tancrescens.github.io/shopping-cart-react/)**<br>
-> **[8. Display User Profiles (Faker api)](https://tancrescens.github.io/faker-display/)**<br>
+> **[10. MERN Stack BadBank App(Render)](https://crescens-tan-fullstack-banking.onrender.com)**
 > **[9. Front-End Banking App](https://tancrescens.github.io/github-portfolio-project-front-end-banking-app/)** | **[On Render](https://crescens-tanbankingapplication.onrender.com)** <br>
+> **[8. Display User Profiles (Faker api)](https://tancrescens.github.io/faker-display/)**<br>
+> **[7. Shopping Cart](https://tancrescens.github.io/shopping-cart-react/)**<br>
+> **[6. ToDo-List](https://tancrescens.github.io/ToDo-List/)**<br>
+> **[5. My First React-Formik Form](https://tancrescens.github.io/build-a-formik-form_starter/)**<br>
+> **[4. Real Time Bus Tracker](https://tancrescens.github.io/bus-tracker)**<br>
+> **[3. Eye Movement Exercise](https://tancrescens.github.io/eye-movement/)**<br>
+> **[2. Pacmen Exercise (Upgraded)](https://tancrescens.github.io/Pacmen-Exercise-upgraded/)**<br>
+> **[1. Pacman Exercise](https://tancrescens.github.io/Pacman-Exercise/)**<br>
+
+
+
+
+
+
