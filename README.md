@@ -1,4 +1,4 @@
-# README: <br> Portfolio Display from MITxPRO course: <br> Professional Certificate in Coding: <br> Full Stack Development with MERN
+# README: <br> Portfolio Display <br>
 
 ## Description
 This space features my personal projects I've done. They consists of mainly the MERN stack, HTML, CSS and JS
