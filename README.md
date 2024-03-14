@@ -5,9 +5,9 @@ This space features my personal projects I've done. They consists of mainly the 
 
 **10. MERN Stack BadBank App**
 > Standalone React with Bootstrap deployed on Render with Docker and used GitHub for version control(HTML,CSS,JS, Bootstrap, React Library) <br>
-> Used state & context manipulation, custom form validation, async-await, promises, DAL, HashRouter<br>
-> Deployed the aplication onto GitHub and a Docker Container which was used to run on Render (a Hosting Application)
-> Used MongoDB Atlas for data storage
+> Used state & context manipulation, custom form validation, async-await, promises, DAL, HashRouter <br>
+> Deployed the aplication onto GitHub and a Docker Container which was used to run on Render (a Hosting Application) <br>
+> Used MongoDB Atlas for data storage <br>
 > Website can be found here (give it 1 min to start up; its a free server :) ) - [MERN Stack BadBank App(Render)](https://crescens-tan-fullstack-banking.onrender.com)
 
 **9. Front-End BadBank App**
