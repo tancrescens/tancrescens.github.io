@@ -1,7 +1,12 @@
 # README: <br> Portfolio Display <br>
 
 ## Description
-This space features my personal projects I've done. They consists of mainly the MERN stack, HTML, CSS and JS<br><br>
+This space features my personal projects I've done. They consists of mainly the MERN stack, HTML, CSS and JS<br>
+You can view the project sites all the way below<br>
+Or alternatively, visit my [website](https://tancrescens.github.io/)!
+<br>
+<br>
+
 
 **10. MERN Stack BadBank App**
 > Standalone React with Bootstrap deployed on Render with Docker and used GitHub for version control(HTML,CSS,JS, Bootstrap, React Library) <br>
