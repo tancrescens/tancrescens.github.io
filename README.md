@@ -3,7 +3,7 @@
 ## Description
 This space features my personal projects I've done. They consists of mainly the MERN stack, HTML, CSS and JS<br>
 You can view the project sites all the way below<br>
-Or alternatively, visit my [website](https://tancrescens.github.io/)!
+Or alternatively, visit my [website](https://tancrescens.github.io/portfolio/)!
 <br>
 <br>
 
